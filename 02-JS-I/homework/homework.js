@@ -242,7 +242,8 @@ if (letra.lenght > 1) {
     letra === "e" ||
     letra === "i" ||
     letra === "o" ||
-    letra === "u" ) {
+    letra === "u"
+    letra === "A") {
       return "Es vocal"
     }else {"Dato incorrecto"
       }
